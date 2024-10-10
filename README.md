@@ -1,6 +1,6 @@
 # League of Legends Role Icons (SVG)
 
-This repository contains scalable vector graphic (SVG) versions of the League of Legends role (position) icons. These icons can be used for web projects, apps, or any platform requiring high-quality, scalable League role icons.
+This repository contains my scalable vector graphic (SVG) versions of the League of Legends role (position) icons. These icons can be used for web projects, apps, or any platform requiring high-quality, scalable League role icons.
 
 ## Available Roles
 
@@ -31,3 +31,5 @@ Simply download the SVG files and include them in your project. You can adjust t
 ```
 
 Feel free to open issues or contribute with improvements or new versions of the icons.
+
+Enjoy! :) 
